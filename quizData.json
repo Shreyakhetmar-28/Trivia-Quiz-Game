@@ -1,0 +1,203 @@
+[
+    {
+      "question": "The first generation computer could be?",
+      "options": [
+        "Networking",
+        "Batch Processing",
+        "Miti-tabulation",
+        "Multi-tasking"
+      ],
+      "answer": "Batch Processing"
+    },
+    {
+      "question": "A desktop computer is also known as?",
+      "options": [
+        "Laptop", 
+        "Mainframe", 
+        "Palmtop",
+        "PC"
+        ],
+      "answer": "PC"
+    },
+    {
+      "question": "Which of the following is generally costlier?",
+      "options": [
+        "Mainframe", 
+        "Personal computer",
+        "Notebook computer",
+        "Server"
+        ],
+      "answer": "Mainframe"
+    },
+    {
+      "question": "Which of the following can be consider as portable computer?",
+      "options": [
+        "Desktop", 
+        "PDA", 
+        "Mainframe computer", 
+        "Mini computer"
+      ],
+      "answer": "PDA"
+    },
+    {
+      "question": "Modem is a?",
+      "options": [
+        "Word processing software", 
+        "Application software", 
+        "Hardware", 
+        "Liveware"
+      ],
+      "answer": "Hardware"
+    },
+    {
+      "question": "Name the application used for creating presentations?",
+      "options": [
+        "MS Access",
+        "MS Word",
+        "MS Excel",
+        "MS PowerPoint"
+      ],
+      "answer": "MS PowerPoint"
+    },
+    {
+      "question": "Shell is the exclusive feature of?",
+      "options": [
+        "Application software", 
+        "System software", 
+        "DOS", 
+        "UNIX"
+      ],
+      "answer": "UNIX"
+    },
+    {
+      "question": "Which was the computer conceived by babbage?",
+      "options": [
+        "Donald knuth", 
+        "Arithmetic machine", 
+        "Analytical engine", 
+        "All of the above"
+      ],
+      "answer": "Arithmetic machine"
+    },
+    {
+      "question": "The combination of operating system and processor in a computer is referred to as computer?",
+      "options": [
+        "Minimum requirements", 
+        "Specifications", 
+        "Platform", 
+        "Firmware"
+      ],
+      "answer": "Platform"
+    },
+    {
+      "question": "Programs stored inROM are called as?",
+      "options": [
+        "Fireware", 
+        "Formware", 
+        "Farmware", 
+        "Firmware"
+      ],
+      "answer": "Farmware"
+    },
+    {
+      "question": "UNIVAC is?",
+      "options": [
+        "Universal Automatic Computer",
+        "Universal Array Computer",
+        "Unique Automatic Computer",
+        "Unvalued Automatic Computer"
+      ],
+      "answer": "Universal Automatic Computer"
+    },
+    {
+      "question": "The basic operations performed by a computer are?",
+      "options": [
+        "Arithmetic operations",
+        "Logistic operations",
+        "Storage and relative",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "The two major types of computer chips are?",
+      "options": [
+        "External memory chip", 
+        "Primary memory chip", 
+        "Microprocessor chip", 
+        "Both b and c"
+      ],
+      "answer": "Both b and c"
+    },
+    {
+      "question": "Computer is free from tiresome and boardoom. We call it?",
+      "options": [
+        "Accuracy", 
+        "Reliability", 
+        "Diligence", 
+        "Versatility"
+      ],
+      "answer": "Diligence"
+    },
+    {
+      "question": "Which type of computer uses the 8-bit code called EBCDIC?",
+      "options": [
+        "Minicomputers",
+        "Microcomputers",
+        "Mainframe computers",
+        "Super computers"
+      ],
+      "answer": "Microcomputers"
+    },
+    {
+      "question": "Which of the following was a special purpose computer?",
+      "options": [
+        "ABC",
+        "ENIAC",
+        "EDVAC",
+        "All of the above"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "question": "Which of the following is not processing?",
+      "options": [
+        "Arranging",
+        "Manipulating",
+        "Calculating",
+        "Gathering"
+      ],
+      "answer": "Gathering"
+    },
+    {
+      "question": "The digital computer was developed primarily in?",
+      "options": [
+        "USSR",
+        "Japan",
+        "USA",
+        "UK"
+      ],
+      "answer": "USA"
+    },
+    {
+      "question": "The arranging of data in a logical sequence is called ?",
+      "options": [
+        "Sorting",
+        "Classifying",
+        "Reporting",
+        "Summarizing"
+      ],
+      "answer": "Sorting"
+    },
+    {
+      "question": "Instructions and memory address are represented by?",
+      "options": [
+        "Character code",
+        "Binary code",
+        "Binary word",
+        "Parity bit"
+      ],
+      "answer": "Binary code"
+    }
+  ]
+  
